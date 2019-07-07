@@ -1,0 +1,23 @@
+2019-07-07 13:14:14,417  INFO [main] LoginTest:35 - ******** Starting Login Class Test Cases ***************
+2019-07-07 13:14:21,320  INFO [main] LoginTest:41 - url is launched -- https://ui.freecrm.com/
+2019-07-07 13:14:21,323  INFO [main] LoginTest:48 - Test - loginPageTitleTest - starting
+2019-07-07 13:14:21,336  INFO [main] LoginTest:51 - login page title is: CRM
+2019-07-07 13:14:21,337  INFO [main] LoginTest:53 - Test - loginPageTitleTest -- ended
+2019-07-07 13:14:22,474  INFO [main] LoginTest:71 - Browser is closed
+2019-07-07 13:14:30,944  INFO [main] LoginTest:35 - ******** Starting Login Class Test Cases ***************
+2019-07-07 13:14:36,240  INFO [main] LoginTest:41 - url is launched -- https://ui.freecrm.com/
+2019-07-07 13:14:36,240  INFO [main] LoginTest:59 - Test - freeCrmLoginTest - starting
+2019-07-07 13:14:36,241  INFO [main] LoginTest:60 - Username is: raghav.ankireddy@gmail.com
+2019-07-07 13:14:36,242  INFO [main] LoginTest:61 - Password is: Meta@1234
+2019-07-07 13:14:36,759  INFO [main] LoginTest:63 - Test - freeCrmLoginTest - ended
+2019-07-07 13:14:37,531  INFO [main] LoginTest:71 - Browser is closed
+2019-07-07 13:14:47,263 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-07-07 13:14:47,267 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-07-07 13:14:47,271 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-07-07 13:14:47,275 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-07-07 13:14:47,276 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ragha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-07-07 13:14:47,630 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-07-07 13:14:47,634 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-07-07 13:14:47,635 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-07-07 13:14:47,636 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-07-07 13:14:47,637 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ragha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

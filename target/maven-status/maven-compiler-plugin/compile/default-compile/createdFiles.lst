@@ -1,0 +1,8 @@
+framework\freecrm\pages\ContactsPage.class
+framework\freecrm\pages\TestBase.class
+framework\freecrm\pages\HomePage.class
+framework\freecrm\pages\ContactInformationPage.class
+framework\freecrm\pages\LoginPage.class
+framework\freecrm\util\Constants.class
+framework\extentreport\ExtentReporterNG.class
+framework\eventlistener\WebEventListener.class
